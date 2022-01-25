@@ -1,6 +1,6 @@
 # ✨ Olá, eu sou a Aline Lopes! ✨
 ## ✨ Dev em Java Full Stack Jr e apaixonada por experiências visuais ✨ 
-<img align="right" alt="Aline-pic" height="300" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/865606892297388073/935323106824843314/dbf24b9039173947ef96caea9e41f2f1-removebg-preview.png">
+<img align="right" alt="Aline-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/865606892297388073/935323106824843314/dbf24b9039173947ef96caea9e41f2f1-removebg-preview.png">
 
 
 <div style="display: inline_block" align="center">
