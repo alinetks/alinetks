@@ -1,11 +1,14 @@
 # ✨ Olá, eu sou a Aline Lopes! ✨
 ## ✨ Dev em Java Full Stack Jr e apaixonada por experiências visuais ✨ 
-<img align="right" alt="Aline-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/865606892297388073/935323106824843314/dbf24b9039173947ef96caea9e41f2f1-removebg-preview.png">
+
 
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/alinetks">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinetks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
+   <img align="right" alt="Aline-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/865606892297388073/935323106824843314/dbf24b9039173947ef96caea9e41f2f1-removebg-preview.png">
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinetks&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block" align="center"><br>
