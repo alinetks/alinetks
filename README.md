@@ -3,9 +3,9 @@
 
 
 
-<div align="justify">
+<div align="center">
   <a href="https://github.com/alinetks">
-     <div>
+     <div align="justify">
        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinetks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
        <img align="left" alt="Aline-pic" height="180" src="https://cdn.discordapp.com/attachments/865606892297388073/935323106824843314/dbf24b9039173947ef96caea9e41f2f1-removebg-preview.png">
      <div>
