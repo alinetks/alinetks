@@ -1,7 +1,6 @@
-# ✨ Olá, eu sou a Aline! ✨
-
-<div align="left">
-  <img alt="Aline-pic" align="right" height="400" src="https://cdn.discordapp.com/attachments/865606892297388073/935323106824843314/dbf24b9039173947ef96caea9e41f2f1-removebg-preview.png"> 
+<div align="center">
+  <img alt="Aline-pic" align="left" height="340" src="https://cdn.discordapp.com/attachments/865606892297388073/935323106824843314/dbf24b9039173947ef96caea9e41f2f1-removebg-preview.png"> 
+  <h1>✨ Olá, eu sou a Aline! ✨</h1>
   <h2> Sejam bem vindos ao meu portifólio, aqui vocês irão encontrar mais do que apenas projetos. Apaixonada por ilustrações e experiencias visuais, busco criar projetos que realmente cativem e conectem pessoas. </h2> 
 </div>
 
