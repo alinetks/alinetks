@@ -3,7 +3,7 @@
   <h2>✨ Olá, eu sou a Aline! ✨ 
  <br>
  <br>
-  Desenvolvedora Java Full Stack em contante aprendizado, nesse portifólio podem conhecer mais dos meus projetos. </h2> 
+  Desenvolvedora Full Stack em contante aprendizado, nesse portifólio podem conhecer mais dos meus projetos. </h2> 
 </div>
 
 <div>      
