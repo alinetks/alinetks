@@ -1,9 +1,7 @@
 <div align="center">
   <img alt="Aline-pic" align="left" height="340" src="https://cdn.discordapp.com/attachments/865606892297388073/935323106824843314/dbf24b9039173947ef96caea9e41f2f1-removebg-preview.png"> 
-  <h2>✨ Olá, eu sou a Aline! ✨ 
- <br>
- <br>
-  Desenvolvedora Full Stack em constante aprendizado, nesse portfólio podem conhecer mais dos meus projetos. </h2> 
+  <h2>✨ Olá, eu sou a Aline! ✨ </h2>
+  <h3> Desenvolvedora Full Stack em constante aprendizado, nesse portfólio podem conhecer mais dos meus projetos. </h3> 
 </div>
 
 <div>      
@@ -20,11 +18,6 @@
   ## 
  
 <div style="display: inline_block" align="center"> 
-  <a href = "mailto:al.alves@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/aline-a-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Alinetks/Alinetks/blob/output/github-contribution-grid-snake.svg)
- 
  <div>
       <a href="https://github.com/alinetks">
     <div align="center">
