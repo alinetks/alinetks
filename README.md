@@ -1,5 +1,6 @@
 <div align="center">
   <img alt="Aline-pic" align="left" height="340" src="https://cdn.discordapp.com/attachments/865606892297388073/935323106824843314/dbf24b9039173947ef96caea9e41f2f1-removebg-preview.png"> 
+  <br><br>
   <h2>✨ Olá, eu sou a Aline! ✨ </h2>
   <h3> Desenvolvedora Full Stack em constante aprendizado, nesse portfólio podem conhecer mais dos meus projetos. </h3> 
 </div>
@@ -16,15 +17,13 @@
 </div>
   
   ## 
- 
+ <br><br>
 <div style="display: inline_block" align="center"> 
  <div>
       <a href="https://github.com/alinetks">
     <div align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinetks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinetks&layout=compact&langs_count=7&theme=tokyonight"/>
-    </div>
-        
+    </div>        
   </div>
-  
 </div>
