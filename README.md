@@ -1,29 +1,77 @@
+
+# Seja bem vindo(a)!
+
+## ✨Olá, Eu sou a Aline!✨
+
+<img align="left" width="20%" src="https://media2.giphy.com/media/eky7smgT2ORksIiGJs/giphy.gif?cid=6c09b952rjx20e8pd876vcif4mws89m7jrjinfn2724w4xl7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s?raw=true"> </br>
+
+Engenheira de Software em formação pela PUC e ex-Alune da Generation Brasil, atuando desde 2022 como desenvolvedor(a) Full Stack na área de pesquisa no Instituto Atlântico.
+
+Criativa, curiosa e engajada, busco sempre conhecer e experimentar novas tecnologias. 
+
+Aqui você encontrará códigos em diversas linguagens, frutos de estudos, testes e aventuras na tecnologia. Fique à vontade para usar, compartilhar e contribuir. </br></br></br>
+
+
+<h2>Github Statistics</h2>
+
 <div align="center">
-  <img alt="Aline-pic" align="left" height="340" src="https://cdn.discordapp.com/attachments/865606892297388073/935323106824843314/dbf24b9039173947ef96caea9e41f2f1-removebg-preview.png"> 
-  <br><br>
-  <h2>✨ Olá, eu sou a Aline! ✨ </h2>
-  <h3> Desenvolvedora Full Stack em constante aprendizado, nesse portfólio podem conhecer mais dos meus projetos. </h3> 
+  <a href="https://github.com/rafaelq80">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinetks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinetks&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div>      
-<div align="center"><br>
-  <img align="center" alt="Alinetks-JAVA" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Alinetks-Spring" height="30" width="70" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Alinetks-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Alinetks-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Alinetks-CSS" height="30" width="70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Alinetks-Spring" height="30" width="70" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Alinetks-Spring" height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<br />
+
+<h2>Interesses</h2>
+
+<h3>Backend</h3>
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="alinetks-Java" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg"/>
+    <img align="center" alt="alinetks-Spring boot" height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+    <img align="center" alt="alinetks-GoLang" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GoLang.svg"/>
+    <img align="center" alt="alinetks-Python" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg"/>
+    <img align="center" alt="alinetks-JS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
+    <img align="center" alt="alinetks-TS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
+    <img align="center" alt="alinetks-Node" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg"/>
+    <img align="center" alt="alinetks-Next" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg"/>
+    <img align="center" alt="alinetks-Express" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg"/>
+    <img align="center" alt="alinetks-Prisma" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Prisma.svg"/>
+    </div> 
+
+
+<h3>Banco de Dados</h3>
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="alinetks-MySQl" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/>
+    <img align="center" alt="alinetks-SQL-Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+    <img align="center" alt="alinetks-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/SQLite.svg">
 </div>
-  
-  ## 
- <br><br>
-<div style="display: inline_block" align="center"> 
- <div>
-      <a href="https://github.com/alinetks">
-    <div align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinetks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinetks&layout=compact&langs_count=7&theme=tokyonight"/>
-    </div>        
-  </div>
-</div>
+
+
+
+<h3>Frontend</h3>
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="alinetks-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="alinetks-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="alinetks-JS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
+     <img align="center" alt="alinetks-TS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
+    <img align="center" alt="alinetks-React" height="50" width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Light.svg">
+    <img align="center" alt="alinetks-React" height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg">
+    <img align="center" alt="alinetks-React" height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Light.svg">
+    <img align="center" alt="alinetks-Vite" height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Vite-Dark.svg">
+<div> 
+
+
+
+<h3>DEVOPS</h3>
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="alinetks-Docker" height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg">
+    <img align="center" alt="alinetks-Github-Actions" height="30"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GithubActions-Dark.svg">
+    <img align="center" alt="alinetks-Azure" height="30"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Azure-Dark.svg">
+    <img align="center" alt="alinetks-Grafana" height="30"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Grafana-Dark.svg">
+</div> 
+
+
