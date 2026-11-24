@@ -5,11 +5,12 @@
 
 <img align="left" width="20%" src="https://media2.giphy.com/media/eky7smgT2ORksIiGJs/giphy.gif?cid=6c09b952rjx20e8pd876vcif4mws89m7jrjinfn2724w4xl7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s?raw=true"> </br>
 
-Engenheira de Software em formação pela PUC e ex-Alune da Generation Brasil, atuando desde 2022 como desenvolvedor(a) Full Stack na área de pesquisa no Instituto Atlântico.
+Desenvolvedora Full Stack com atuação em P&D desde 2022, focada em transformar problemas em soluções, tanto em APIs e serviços quanto em aplicações baseadas em Inteligência Artificial. 
+Minha trajetória combina base em Administração, formação complementar pela Generation Brasil e especialização em Engenharia de Software pela PUC. Essa mistura me ajuda a olhar tanto para a arquitetura e a execução técnica quanto para o impacto real do produto.
 
-Criativa, curiosa e engajada, busco sempre conhecer e experimentar novas tecnologias. 
+Gosto de mergulhar em cenários abertos, experimentar novas ideias e transformar desafios em código. Se você busca alguém com curiosidade genuína, rigor investigativo e foco em inovação com propósito, essa sou eu. 
 
-Aqui você encontrará códigos em diversas linguagens, frutos de estudos, testes e aventuras na tecnologia. Fique à vontade para usar, compartilhar e contribuir. </br></br></br>
+</br></br></br>
 
 
 <h2>Github Statistics</h2>
